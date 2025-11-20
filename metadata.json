@@ -1,0 +1,5 @@
+{
+  "name": "AlphaSeeker A-Share Monitor",
+  "description": "A comprehensive A-Share market monitoring dashboard featuring real-time watchlist tracking, AI-powered news summaries, daily market reviews, and predictive opportunity tracking using Gemini models.",
+  "requestFramePermissions": []
+}
